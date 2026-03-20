@@ -9,7 +9,9 @@ Learning Coding to Build the Knowledge.
     <li>print()</li>
     <li>operators</li>
   </ul>
-</details>
+</details> 
+
 
 ### ➔ DAY 2
 * TOPIC
+I didn't studied today!!
